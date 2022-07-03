@@ -1,5 +1,6 @@
 {
-  "YOUTUBE_API_KEY": "",
+  "TOKEN": "OTkzMDk2MDk0MzI0MTEzNDg4.GAnMU9.jHVjzI4hYLHJSoeGAh1OBF0aAOE7ErzrSJt_3g"
+  "YOUTUBE_API_KEY": "https://github.com/gtagamermods/admusicbot.git",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
   "PREFIX": "/",
